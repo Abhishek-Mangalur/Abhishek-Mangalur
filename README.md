@@ -2,7 +2,7 @@
 ## I am Abhishek 
 ### I am studing in Acharya Institute of Technology Bengaluru
 ### Dept. of ISE
-This era is bit advancing so we have to learn code
+This era is a bit of advance so we have to learn code
 
 Come on guys... Lets start coding from now onwards!!!
 
