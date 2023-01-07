@@ -7,7 +7,7 @@ All basic programs are available in below repositories
 
 This era is bit advancing so we have to learn code
 
-come on guys!!! Lets start coding from now onwards...
+Come on guys!!! Lets start coding from now onwards...
 
 <!--
 **Abhishek-Mangalur/Abhishek-Mangalur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
