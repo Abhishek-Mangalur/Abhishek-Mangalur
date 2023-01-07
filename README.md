@@ -2,12 +2,12 @@
 ## I am Abhishek 
 ### I am studing in Acharya Institute of Technology Bengaluru
 ### Dept. of ISE
-![giphy](https://user-images.githubusercontent.com/121670647/211134313-b7bd396a-1b6f-4db9-b3c6-f5bc8ba07bc3.gif)
-![coding](https://user-images.githubusercontent.com/121670647/211133061-543184bd-c733-4a1e-92a5-8d7e392fd203.gif)
-
 This era is bit advancing so we have to learn code
 
 Come on guys... Lets start coding from now onwards!!!
+
+![giphy](https://user-images.githubusercontent.com/121670647/211134313-b7bd396a-1b6f-4db9-b3c6-f5bc8ba07bc3.gif)
+![coding](https://user-images.githubusercontent.com/121670647/211133061-543184bd-c733-4a1e-92a5-8d7e392fd203.gif)
 
 <!--
 **Abhishek-Mangalur/Abhishek-Mangalur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
