@@ -26,6 +26,10 @@
 
 ###
 
+<h4 align="center">Connect with Me:</h4>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/abhishek-mangalur-394042260/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="30" alt="linkedin logo"  />
@@ -37,7 +41,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Abhishek-Mangalur/Abhishek-Mangalur/blob/output/snake.svg" alt="Snake animation" />
+<h4 align="center">Visitors Count</h4>
 
 ###
 
