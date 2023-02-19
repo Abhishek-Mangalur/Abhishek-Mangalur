@@ -6,11 +6,11 @@
 
 ###
 
-<h3 align="center">An Open Source Contributor</h3>
+<h2 align="center">An Open Source Contributor from India</h2>
 
 ###
 
-<h4 align="center">I am studing in Acharya Institute of Technology Bengaluru<br>Dept. of ISE</h4>
+<h3 align="center">I am studing in Acharya Institute of Technology Bengaluru<br>Dept. of ISE</h3>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="center">I Code with :</h4>
+<h3 align="center">I Code with :</h3>
 
 ###
 
@@ -30,15 +30,7 @@
 
 ###
 
-<h4 align="center">Connect with Me:</h4>
-
-###
-
-<div align="center">
-
-  [Gmail](mailto:abhishekm.21.beis@acharaya.ac.in)
-    
-</div>
+<h3 align="center">Connect with Me:</h3>
 
 ###
 
@@ -46,6 +38,14 @@
   <a href="https://www.linkedin.com/in/abhishek-mangalur-394042260/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="30" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+
+  # [Gmail](mailto:abhishekm.21.beis@acharaya.ac.in)
+    
 </div>
 
 ###
