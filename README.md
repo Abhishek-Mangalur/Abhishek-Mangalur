@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">An Open Source Contributor from India</h2>
+<h2 align="center">An Open Source Codes</h2>
 
 ###
 
