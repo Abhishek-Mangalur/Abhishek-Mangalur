@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">An Open Source Codes</h2>
+<h2 align="center">These are Open Source Codes</h2>
 
 ###
 
