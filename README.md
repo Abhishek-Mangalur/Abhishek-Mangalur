@@ -53,7 +53,7 @@
   <a href="mailto:abhimangalur1@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=Gmail&label=&color=cc0000&logoColor=white&labelColor=&style=plastic" height="30" alt="linkedin logo"  />
     </a>
-  <a href="https://www.linkedin.com/in/abhishek-mangalur-394042260/" target="_blank">
+  <a href="https://www.linkedin.com/in/abhishek-mangalur-7b4294258/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="30" alt="linkedin logo"  />  
   </a>
 </div>
