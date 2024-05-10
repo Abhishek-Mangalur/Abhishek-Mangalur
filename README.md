@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="center">Project Links:<br>https://hrmsait.000webhostapp.com <br>http://lmsait.infinityfreeapp.com</h3>
+<h3 align="center">Project Links:<br>https://hrmsait.000webhostapp.com <br>https://lmsait.infinityfreeapp.com</h3>
 
 ###
 
