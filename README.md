@@ -2,7 +2,7 @@
 
 ###
  
-<h1 align="center">I am Abhishek from Acharya Institute of Technology Bengaluru<br>Dept. of ISE</h1>
+<h3 align="center">I am Abhishek from Acharya Institute of Technology Bengaluru<br>Dept. of ISE</h3>
 
 ###
 
