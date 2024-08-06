@@ -2,15 +2,11 @@
 
 ###
  
-<h1 align="center">I am Abhishek</h1>
+<h1 align="center">I am Abhishek from Acharya Institute of Technology Bengaluru<br>Dept. of ISE</h1>
 
 ###
 
 <h2 align="center">These are Open Source Codes</h2>
-
-###
-
-<h3 align="center">I am studing in Acharya Institute of Technology Bengaluru<br>Dept. of ISE</h3>
 
 ###
 
