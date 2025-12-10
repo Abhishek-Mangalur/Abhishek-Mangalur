@@ -13,8 +13,8 @@ I love solving problems through code, exploring modern technologies, and buildin
 Every line of code I write moves me one step closer to becoming a world-class engineer.
 </h4>
 
-<h2 align="center">Portfolio <a href="https://abhishek-mangalur.vercel.app/" target="_blank">
-  https://abhishek-mangalur.vercel.app/
+<h2 align="center">Portfolio: <a href="https://abhishek-mangalur.vercel.app/" target="_blank">
+  <u>Link</u>
 </a></h2>
 
 
