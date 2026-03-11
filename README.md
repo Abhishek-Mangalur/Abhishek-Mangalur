@@ -3,7 +3,7 @@
 
 ###
 
-<h2 align="center">🚀 Full Stack & Backend Developer | Open Source Contributor | Tech Enthusiast</h2>
+<h2 align="center">🚀 Full Stack & DevOps Engineer | Tech Enthusiast</h2>
 
 ###
 
