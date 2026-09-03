@@ -3,7 +3,7 @@
 
 ###
 
-<h2 align="center">🚀 Full Stack & DevOps Engineer | Tech Enthusiast</h2>
+<h2 align="center">🚀 Full Stack & DevOps Engineer</h2>
 
 ###
 
@@ -12,6 +12,14 @@ I’m passionate about crafting clean, scalable, and efficient solutions that ma
 I love solving problems through code, exploring modern technologies, and building meaningful projects.  
 Every line of code I write moves me one step closer to becoming a world-class engineer.
 </h4>
+
+<h2 align="center">CRM For IT Services: <a href="https://crm-frontend.fleet.binihost.com/login" target="_blank">
+  <u>Link</u>
+</a></h2>
+
+<h2 align="center">Smart Expense Tracker API: <a href="https://smart-expense-tracker-api-c0vg3.faable.link/docs" target="_blank">
+  <u>Link</u>
+</a></h2>
 
 <h2 align="center">Portfolio: <a href="https://abhishek-mangalur.vercel.app/" target="_blank">
   <u>Link</u>
